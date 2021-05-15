@@ -1,0 +1,45 @@
+
+header {
+	background-color: green;
+	color: white;
+	text-align: center;
+	padding: 2px 20px;
+}
+
+h1 {
+	font-size: 150px;
+	text-align: center;
+	margin: 2px auto 0px;
+	padding-bottom: 0px;
+}
+
+h2 {
+	color: #bf340a;
+	font-size: 50px;
+}
+
+h3 {
+	color: #1d4f16;
+	font-size: 30px;
+}
+
+.paragrafh1 {
+	font-size: 30px;
+	margin: 0px auto 10px;
+	padding-top: 0px;
+}
+
+.imagine {
+	height: 400px;
+	padding: 10px;
+}
+
+.grupimagini {
+	margin: 10px 127px;
+}
+
+.text {
+	background-color: #e9ffd6;
+	padding: 10px 80px;
+
+}
